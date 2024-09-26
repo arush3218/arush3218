@@ -4,7 +4,7 @@
 
 ## Connect with me
 - [Twitter](https://twitter.com/arush3218)
-- [LinkedIn]((https://in.linkedin.com/in/arush-verma-b140a424b)))
+- [LinkedIn](https://in.linkedin.com/in/arush-verma-b140a424b)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arush3218&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
